@@ -1,0 +1,9 @@
+#pentru poze (instalare pip in terminal)
+piatra_img = ImageTk.PhotoImage(Image.open("piatra.png"))
+hartie_img = ImageTk.PhotoImage(Image.open("hartie.png"))
+foarfeca_img = ImageTk.PhotoImage(Image.open("foarfeca.png"))
+
+#poze prima perspectiva(mai un set de 3 poze pt perspectiva2)
+piatra_img_comp = ImageTk.PhotoImage(Image.open("piatra_2.png"))
+hartie_img_comp = ImageTk.PhotoImage(Image.open("hartie_2.png"))
+foarfeca_img_comp = ImageTk.PhotoImage(Image.open("foarfeca_2.png"))
