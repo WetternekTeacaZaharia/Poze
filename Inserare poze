@@ -1,0 +1,4 @@
+user_label = Label(root, image = piatra_img,bg="purple")                #bg pt fundal mov
+computer_label = Label(root, image = piatra_img_comp,bg="purple")
+computer_label.grid(row=1 , column=0)                                   #punem pozele in fereastra(piatra_2.png in stanga)
+user_label.grid(row=1, column =4)                                       #piatra.png in dreapta
